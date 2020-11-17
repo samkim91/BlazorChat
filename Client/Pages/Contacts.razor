@@ -1,0 +1,39 @@
+@page "/contacts"
+@using BlazorChat.Shared
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+<div class="col-12">
+
+    @foreach (var contact in ContactList)
+    {
+        <a href="/chat/@contact.ContactId" class="list-group-item list-group-item-action flex-column align-items-start">
+            @contact.FirstName <span> </span> @contact.LastName
+        </a>
+    }
+</div>
+
+@code {
+    private WeatherForecast[] forecasts;
+
+    private List<Contact> ContactList {get; set;} = new List<Contact>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast");
+
+        ContactList.Add(new Contact(1, "Juli", "Caesar"));
+        ContactList.Add(new Contact(2, "Dane", "Toni"));
+        ContactList.Add(new Contact(3, "Gary", "Tomas"));
+        ContactList.Add(new Contact(4, "Martin", "Som"));
+        ContactList.Add(new Contact(5, "Howard", "Cindy"));
+    }
+
+    private void NavigateToChat(){
+        NavigationManager.NavigateTo("/chat");
+    }
+}
