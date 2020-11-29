@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\wk7w3LcyU8I1riASpIrujpyJpiEsNtyM9Fh_OWg38co=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\nYUmLEh5JO0DpTrY5af5dD3naSIJwkBRufSgZHfzzYI=.hash",
       "Source": "D:\\MyProjects\\EP4\\BlazorChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorChat.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorChat.Client.dll.gz"
     },
@@ -191,12 +191,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\O7Qc0Dw--I6mo2WtaWaVVjM_0nG4ug0msjWX3SYsEFI=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Wmh1j3ua08VAyAPly_HZT9agWZ5MFTNRlKGZVbm62AE=.hash",
       "Source": "D:\\MyProjects\\EP4\\BlazorChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\ThirdPartyChatLib.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ThirdPartyChatLib.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LfUgrXejzpDi_JREYbpkJ13xBxoASc9FXerhgnPbpsM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Y8lpIdlQpRlEQvm2PbkMli0gXLjK51jHRSCQZovVPDI=.hash",
       "Source": "D:\\MyProjects\\EP4\\BlazorChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorChat.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorChat.Shared.dll.gz"
     },
@@ -271,17 +271,17 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\coou4sVERT7oqVXl3zG_leRw_fqT2sBTQ4ux1EGac_Y=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NwDo0hW1aW7lnHv07p3r7w6xN0Ks7MMtbOUuje-FDm8=.hash",
       "Source": "D:\\MyProjects\\EP4\\BlazorChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorChat.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorChat.Client.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\UkHwRVemczsEOiIA0JbJAwoKluzTPTdPO50zDilS_54=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dJpVSgzTA2NnnH52quSdWORH_qI1WV_QXBEUN4N2dG4=.hash",
       "Source": "D:\\MyProjects\\EP4\\BlazorChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\ThirdPartyChatLib.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ThirdPartyChatLib.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\evblj9wyJdx67uleQucSF6KnRgDDl4snQ8XcBmaL4xU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hqn4Jeje31hr43byQDa6jSL7nfhn6n2E1m1txd0saZo=.hash",
       "Source": "D:\\MyProjects\\EP4\\BlazorChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorChat.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorChat.Shared.pdb.gz"
     },
@@ -306,12 +306,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Lbp3c3oj-rvUSDFy3eOHAam3jMnEsTyp1p9ZNu3p83Y=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DTJ_vG_dNo421gUcyDjGN0nPb0yFxAmCSzSw-fxxkYE=.hash",
       "Source": "D:\\MyProjects\\EP4\\BlazorChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\c00TqvKoV5sKfVO5rmCsP-IEJKhYpgDKONOffeYeCaI=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PCgzoTP991lb86eJbNaM9FoSQoI_bHKSWCdQI-VqsZc=.hash",
       "Source": "D:\\MyProjects\\EP4\\BlazorChat\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }

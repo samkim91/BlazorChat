@@ -77,7 +77,7 @@
       "url": "_content\/ThirdPartyChatLib\/styles.css"
     },
     {
-      "hash": "sha256-wk7w3LcyU8I1riASpIrujpyJpiEsNtyM9Fh+OWg38co=",
+      "hash": "sha256-nYUmLEh5JO0DpTrY5af5dD3naSIJwkBRufSgZHfzzYI=",
       "url": "_framework\/_bin\/BlazorChat.Client.dll"
     },
     {
@@ -229,11 +229,11 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-O7Qc0Dw\/\/I6mo2WtaWaVVjM+0nG4ug0msjWX3SYsEFI=",
+      "hash": "sha256-Wmh1j3ua08VAyAPly+HZT9agWZ5MFTNRlKGZVbm62AE=",
       "url": "_framework\/_bin\/ThirdPartyChatLib.dll"
     },
     {
-      "hash": "sha256-LfUgrXejzpDi+JREYbpkJ13xBxoASc9FXerhgnPbpsM=",
+      "hash": "sha256-Y8lpIdlQpRlEQvm2PbkMli0gXLjK51jHRSCQZovVPDI=",
       "url": "_framework\/_bin\/BlazorChat.Shared.dll"
     },
     {
@@ -293,15 +293,15 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-coou4sVERT7oqVXl3zG+leRw+fqT2sBTQ4ux1EGac+Y=",
+      "hash": "sha256-NwDo0hW1aW7lnHv07p3r7w6xN0Ks7MMtbOUuje\/FDm8=",
       "url": "_framework\/_bin\/BlazorChat.Client.pdb"
     },
     {
-      "hash": "sha256-UkHwRVemczsEOiIA0JbJAwoKluzTPTdPO50zDilS+54=",
+      "hash": "sha256-dJpVSgzTA2NnnH52quSdWORH+qI1WV+QXBEUN4N2dG4=",
       "url": "_framework\/_bin\/ThirdPartyChatLib.pdb"
     },
     {
-      "hash": "sha256-evblj9wyJdx67uleQucSF6KnRgDDl4snQ8XcBmaL4xU=",
+      "hash": "sha256-hqn4Jeje31hr43byQDa6jSL7nfhn6n2E1m1txd0saZo=",
       "url": "_framework\/_bin\/BlazorChat.Shared.pdb"
     },
     {
@@ -321,9 +321,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-Lbp3c3oj\/rvUSDFy3eOHAam3jMnEsTyp1p9ZNu3p83Y=",
+      "hash": "sha256-DTJ+vG+dNo421gUcyDjGN0nPb0yFxAmCSzSw\/fxxkYE=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "H6ph44SX"
+  "version": "ag8FstdL"
 };

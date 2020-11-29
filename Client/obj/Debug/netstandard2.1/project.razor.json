@@ -8,6 +8,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -694012713,
+        "Kind": "Components.Component",
+        "Name": "BlazorChat.Client.App",
+        "AssemblyName": "BlazorChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorChat.Client.App"
+        }
+      },
+      {
+        "HashCode": 1899793212,
+        "Kind": "Components.Component",
+        "Name": "BlazorChat.Client.App",
+        "AssemblyName": "BlazorChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorChat.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorChat.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1320585031,
         "Kind": "Components.Component",
         "Name": "BlazorChat.Client.Pages.Contacts",

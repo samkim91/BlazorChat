@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "BlazorChat.Client.dll": "sha256-wk7w3LcyU8I1riASpIrujpyJpiEsNtyM9Fh+OWg38co=",
+      "BlazorChat.Client.dll": "sha256-nYUmLEh5JO0DpTrY5af5dD3naSIJwkBRufSgZHfzzYI=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -44,8 +44,8 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=",
-      "ThirdPartyChatLib.dll": "sha256-O7Qc0Dw\/\/I6mo2WtaWaVVjM+0nG4ug0msjWX3SYsEFI=",
-      "BlazorChat.Shared.dll": "sha256-LfUgrXejzpDi+JREYbpkJ13xBxoASc9FXerhgnPbpsM=",
+      "ThirdPartyChatLib.dll": "sha256-Wmh1j3ua08VAyAPly+HZT9agWZ5MFTNRlKGZVbm62AE=",
+      "BlazorChat.Shared.dll": "sha256-Y8lpIdlQpRlEQvm2PbkMli0gXLjK51jHRSCQZovVPDI=",
       "Microsoft.JSInterop.dll": "sha256-LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-oK1Bjv95fH+hSbogUkJE+xDAI203kJG6lL6Sm\/NuPWg=",
@@ -62,9 +62,9 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "BlazorChat.Client.pdb": "sha256-coou4sVERT7oqVXl3zG+leRw+fqT2sBTQ4ux1EGac+Y=",
-      "ThirdPartyChatLib.pdb": "sha256-UkHwRVemczsEOiIA0JbJAwoKluzTPTdPO50zDilS+54=",
-      "BlazorChat.Shared.pdb": "sha256-evblj9wyJdx67uleQucSF6KnRgDDl4snQ8XcBmaL4xU="
+      "BlazorChat.Client.pdb": "sha256-NwDo0hW1aW7lnHv07p3r7w6xN0Ks7MMtbOUuje\/FDm8=",
+      "ThirdPartyChatLib.pdb": "sha256-dJpVSgzTA2NnnH52quSdWORH+qI1WV+QXBEUN4N2dG4=",
+      "BlazorChat.Shared.pdb": "sha256-hqn4Jeje31hr43byQDa6jSL7nfhn6n2E1m1txd0saZo="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",
