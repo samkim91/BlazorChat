@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Client\\BlazorChat.Client.csproj",
+  "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Client\\BlazorChat.Client.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "3.0",
@@ -37,39 +37,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorChat.Client.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1320585031,
-        "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.Pages.Contacts",
-        "AssemblyName": "BlazorChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Contacts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.Pages.Contacts"
-        }
-      },
-      {
-        "HashCode": -1977273468,
-        "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.Pages.Contacts",
-        "AssemblyName": "BlazorChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorChat.Client.Pages.Contacts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.Pages.Contacts",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -136,6 +103,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorChat.Client.Pages.Settings",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1320585031,
+        "Kind": "Components.Component",
+        "Name": "BlazorChat.Client.Pages.Contacts",
+        "AssemblyName": "BlazorChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Contacts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorChat.Client.Pages.Contacts"
+        }
+      },
+      {
+        "HashCode": -1977273468,
+        "Kind": "Components.Component",
+        "Name": "BlazorChat.Client.Pages.Contacts",
+        "AssemblyName": "BlazorChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorChat.Client.Pages.Contacts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorChat.Client.Pages.Contacts",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -11835,43 +11835,43 @@
   "RootNamespace": "BlazorChat.Client",
   "Documents": [
     {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Client\\Shared\\SurveyPrompt.razor",
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Client\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Client\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Client\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Client\\Pages\\Contacts.razor",
-      "TargetPath": "Pages\\Contacts.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Client\\Pages\\Profile.razor",
-      "TargetPath": "Pages\\Profile.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Client\\Shared\\MainLayout.razor",
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Client\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Client\\Pages\\Settings.razor",
-      "TargetPath": "Pages\\Settings.razor",
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Client\\Pages\\Profile.razor",
+      "TargetPath": "Pages\\Profile.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Client\\App.razor",
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Client\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Client\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Client\\Pages\\Contacts.razor",
+      "TargetPath": "Pages\\Contacts.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Client\\App.razor",
       "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Client\\Pages\\Settings.razor",
+      "TargetPath": "Pages\\Settings.razor",
       "FileKind": "component"
     }
   ],

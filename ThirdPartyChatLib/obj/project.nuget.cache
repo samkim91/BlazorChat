@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IFxoz/zuxctkdB68yFtrskEZTIkeBJ6SZ3T6UvgRwwUuKwhTBgCwxOCiY8ckURS9o37scuhZ3GZvzkxjygugqQ==",
+  "dgSpecHash": "yL7qa7pVY402g64PXkzmXbyCwFeFhUaAIcvLpFShE0wxc66+lQ65RuVBXLEG3k/IuojNVYxBpJ83Gnp3keQS7Q==",
   "success": true,
-  "projectFilePath": "D:\\MyProjects\\EP4\\BlazorChat\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj",
+  "projectFilePath": "D:\\MyProjects\\BlazorChat\\BlazorChat\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kimh6\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.4\\microsoft.aspnetcore.authorization.3.1.4.nupkg.sha512",
     "C:\\Users\\kimh6\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.4\\microsoft.aspnetcore.components.3.1.4.nupkg.sha512",

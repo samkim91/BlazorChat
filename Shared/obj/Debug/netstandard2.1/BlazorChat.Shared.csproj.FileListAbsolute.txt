@@ -16,3 +16,12 @@ D:\MyProjects\EP4\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.A
 D:\MyProjects\EP4\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.csproj.CoreCompileInputs.cache
 D:\MyProjects\EP4\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.dll
 D:\MyProjects\EP4\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.pdb
+D:\MyProjects\BlazorChat\BlazorChat\Shared\bin\Debug\netstandard2.1\BlazorChat.Shared.deps.json
+D:\MyProjects\BlazorChat\BlazorChat\Shared\bin\Debug\netstandard2.1\BlazorChat.Shared.dll
+D:\MyProjects\BlazorChat\BlazorChat\Shared\bin\Debug\netstandard2.1\BlazorChat.Shared.pdb
+D:\MyProjects\BlazorChat\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.csprojAssemblyReference.cache
+D:\MyProjects\BlazorChat\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.AssemblyInfoInputs.cache
+D:\MyProjects\BlazorChat\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.AssemblyInfo.cs
+D:\MyProjects\BlazorChat\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.csproj.CoreCompileInputs.cache
+D:\MyProjects\BlazorChat\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.dll
+D:\MyProjects\BlazorChat\BlazorChat\Shared\obj\Debug\netstandard2.1\BlazorChat.Shared.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProjects\\EP4\\BlazorChat\\Shared\\BlazorChat.Shared.csproj": {}
+    "D:\\MyProjects\\BlazorChat\\BlazorChat\\Shared\\BlazorChat.Shared.csproj": {}
   },
   "projects": {
-    "D:\\MyProjects\\EP4\\BlazorChat\\Shared\\BlazorChat.Shared.csproj": {
+    "D:\\MyProjects\\BlazorChat\\BlazorChat\\Shared\\BlazorChat.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProjects\\EP4\\BlazorChat\\Shared\\BlazorChat.Shared.csproj",
+        "projectUniqueName": "D:\\MyProjects\\BlazorChat\\BlazorChat\\Shared\\BlazorChat.Shared.csproj",
         "projectName": "BlazorChat.Shared",
-        "projectPath": "D:\\MyProjects\\EP4\\BlazorChat\\Shared\\BlazorChat.Shared.csproj",
+        "projectPath": "D:\\MyProjects\\BlazorChat\\BlazorChat\\Shared\\BlazorChat.Shared.csproj",
         "packagesPath": "C:\\Users\\kimh6\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProjects\\EP4\\BlazorChat\\Shared\\obj\\",
+        "outputPath": "D:\\MyProjects\\BlazorChat\\BlazorChat\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kimh6\\AppData\\Roaming\\NuGet\\NuGet.Config",

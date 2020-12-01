@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H5xsUuyidZUSlF3S2pB/NuDmfA/mtSQGDSFTP/SZlJ6xaaMzphyVkgKLnLbo55H+PtUQtStTscjfxrkixVc21A==",
+  "dgSpecHash": "37hipWTdhNluN/OCKPy3EV0kMnjfIH/J10aLL32rtTIT7jRvkoCpoDwV5Q6s4jkLUtX7C4Prmcs2blpuzTirpw==",
   "success": true,
-  "projectFilePath": "D:\\MyProjects\\EP4\\BlazorChat\\Shared\\BlazorChat.Shared.csproj",
+  "projectFilePath": "D:\\MyProjects\\BlazorChat\\BlazorChat\\Shared\\BlazorChat.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

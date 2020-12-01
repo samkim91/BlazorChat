@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
+using BlazorChat.Server.Models;
 
 namespace BlazorChat.Server
 {
@@ -25,6 +26,8 @@ namespace BlazorChat.Server
 
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            services.AddEntityFrameworkSqlite().AddDbContext<BlazingChatContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

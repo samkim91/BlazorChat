@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Server\\BlazorChat.Server.csproj",
+  "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Server\\BlazorChat.Server.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14759,13 +14759,13 @@
   "RootNamespace": "BlazorChat.Server",
   "Documents": [
     {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Server\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Server\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\Server\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\Server\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],

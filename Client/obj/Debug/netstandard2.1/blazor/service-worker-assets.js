@@ -69,15 +69,15 @@
       "url": "_content\/ThirdPartyChatLib\/background.png"
     },
     {
-      "hash": "sha256-4Wfl5QBxyWTYCa+8vlBOk7\/V3lvo0jISGKkzv8OlMsI=",
+      "hash": "sha256-SqGyK386qaOkTnx\/Q0+zvSr4duvM8ctihUg\/6v1b4rQ=",
       "url": "_content\/ThirdPartyChatLib\/exampleJsInterop.js"
     },
     {
-      "hash": "sha256-1Wcni4C0ofQgqCBDAVLyA2jslIc92d7v\/wNT6\/HVZ0w=",
+      "hash": "sha256-XQa3hvspFH6fg4ZHrqdBGt5nMBtRGP8q87peWCzdwmE=",
       "url": "_content\/ThirdPartyChatLib\/styles.css"
     },
     {
-      "hash": "sha256-nYUmLEh5JO0DpTrY5af5dD3naSIJwkBRufSgZHfzzYI=",
+      "hash": "sha256-GjCQRPYb1u\/noCdHRR7UY6X\/73UwF2hZhgpD1zJDWpg=",
       "url": "_framework\/_bin\/BlazorChat.Client.dll"
     },
     {
@@ -229,11 +229,11 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-Wmh1j3ua08VAyAPly+HZT9agWZ5MFTNRlKGZVbm62AE=",
+      "hash": "sha256-q+gmuNsyHXvrL2yz1HVu3z6YUZxTQZMxxMc\/sm2AedE=",
       "url": "_framework\/_bin\/ThirdPartyChatLib.dll"
     },
     {
-      "hash": "sha256-Y8lpIdlQpRlEQvm2PbkMli0gXLjK51jHRSCQZovVPDI=",
+      "hash": "sha256-l0esWt4hyaZVkqUopwW\/KGzENmkP1tn4aqauQhJfZxU=",
       "url": "_framework\/_bin\/BlazorChat.Shared.dll"
     },
     {
@@ -293,15 +293,15 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-NwDo0hW1aW7lnHv07p3r7w6xN0Ks7MMtbOUuje\/FDm8=",
+      "hash": "sha256-2VYXRmq7TWuFS99iAneAoiwomRXTBR5UoTwSYppx3hM=",
       "url": "_framework\/_bin\/BlazorChat.Client.pdb"
     },
     {
-      "hash": "sha256-dJpVSgzTA2NnnH52quSdWORH+qI1WV+QXBEUN4N2dG4=",
+      "hash": "sha256-L1YR9QkP9AhCTJ7nJ2hpJKXlRhCAzm7jpdI5QHYqtPA=",
       "url": "_framework\/_bin\/ThirdPartyChatLib.pdb"
     },
     {
-      "hash": "sha256-hqn4Jeje31hr43byQDa6jSL7nfhn6n2E1m1txd0saZo=",
+      "hash": "sha256-os6xfht7dAUfQHFenZ0mBRhg8pYMFj2a4r3\/\/5hzgrE=",
       "url": "_framework\/_bin\/BlazorChat.Shared.pdb"
     },
     {
@@ -321,9 +321,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-DTJ+vG+dNo421gUcyDjGN0nPb0yFxAmCSzSw\/fxxkYE=",
+      "hash": "sha256-1BmkcRFJngbD0KiMvIsMsjNqmqzdnWfH0JienYa1RNk=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "ag8FstdL"
+  "version": "Raltiepl"
 };

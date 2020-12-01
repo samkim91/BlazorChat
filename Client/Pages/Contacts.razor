@@ -24,13 +24,9 @@
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast");
+        //forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast"); *@
 
-        ContactList.Add(new Contact(1, "Juli", "Caesar"));
-        ContactList.Add(new Contact(2, "Dane", "Toni"));
-        ContactList.Add(new Contact(3, "Gary", "Tomas"));
-        ContactList.Add(new Contact(4, "Martin", "Som"));
-        ContactList.Add(new Contact(5, "Howard", "Cindy"));
+        ContactList = await Http.GetFromJsonAsync<List<Contact>>("user");
 
         Console.WriteLine(ContactList[2].FirstName);
     }

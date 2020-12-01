@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj",
+  "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "3.0",
@@ -11521,12 +11521,12 @@
   "RootNamespace": "ThirdPartyChatLib",
   "Documents": [
     {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\ThirdPartyChatLib\\ThirdPartyChat.razor",
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\ThirdPartyChatLib\\ThirdPartyChat.razor",
       "TargetPath": "ThirdPartyChat.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjects\\EP4\\BlazorChat\\ThirdPartyChatLib\\_Imports.razor",
+      "FilePath": "d:\\MyProjects\\BlazorChat\\BlazorChat\\ThirdPartyChatLib\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     }
