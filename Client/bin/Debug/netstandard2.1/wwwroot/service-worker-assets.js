@@ -77,28 +77,8 @@
       "url": "_content\/ThirdPartyChatLib\/styles.css"
     },
     {
-      "hash": "sha256-GjCQRPYb1u\/noCdHRR7UY6X\/73UwF2hZhgpD1zJDWpg=",
+      "hash": "sha256-0ctBVlnLK2VWajrnOppeEj1VblBFWjG7\/HAvyWXQBmY=",
       "url": "_framework\/_bin\/BlazorChat.Client.dll"
-    },
-    {
-      "hash": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
-      "url": "_framework\/_bin\/System.Net.Http.Json.dll"
-    },
-    {
-      "hash": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
-      "url": "_framework\/_bin\/System.Buffers.dll"
-    },
-    {
-      "hash": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
-      "url": "_framework\/_bin\/mscorlib.dll"
-    },
-    {
-      "hash": "sha256-TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=",
-      "url": "_framework\/_bin\/System.Threading.Tasks.Extensions.dll"
-    },
-    {
-      "hash": "sha256-\/cPXlNTX8GKF\/lIn\/2DIjtxTe0Wpy4ZDcyAj67b6JYk=",
-      "url": "_framework\/_bin\/System.Memory.dll"
     },
     {
       "hash": "sha256-HQeN+ZfHAERO+uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=",
@@ -107,6 +87,14 @@
     {
       "hash": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "url": "_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll"
+    },
+    {
+      "hash": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
+      "url": "_framework\/_bin\/mscorlib.dll"
+    },
+    {
+      "hash": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
+      "url": "_framework\/_bin\/System.Buffers.dll"
     },
     {
       "hash": "sha256-OBWh2or+2mU6elwqPfmL72FBZVKl2WzTJ4L\/IrKeXM4=",
@@ -131,6 +119,10 @@
     {
       "hash": "sha256-ob5gN\/szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=",
       "url": "_framework\/_bin\/WebAssembly.Net.WebSockets.dll"
+    },
+    {
+      "hash": "sha256-\/cPXlNTX8GKF\/lIn\/2DIjtxTe0Wpy4ZDcyAj67b6JYk=",
+      "url": "_framework\/_bin\/System.Memory.dll"
     },
     {
       "hash": "sha256-6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=",
@@ -193,12 +185,20 @@
       "url": "_framework\/_bin\/System.Data.dll"
     },
     {
+      "hash": "sha256-TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=",
+      "url": "_framework\/_bin\/System.Threading.Tasks.Extensions.dll"
+    },
+    {
       "hash": "sha256-qAKfFnquY+7UC\/MzLi04rjqEhLzTryCoLg\/S6MxI19I=",
       "url": "_framework\/_bin\/System.Numerics.Vectors.dll"
     },
     {
       "hash": "sha256-Tqh1Da+iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod+uw4=",
       "url": "_framework\/_bin\/System.Text.Encodings.Web.dll"
+    },
+    {
+      "hash": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
+      "url": "_framework\/_bin\/System.Net.Http.Json.dll"
     },
     {
       "hash": "sha256-Bs1Wrmh4ex9dTEIT0yCRF52N\/wOmsBDt457BHr0\/ssM=",
@@ -233,7 +233,7 @@
       "url": "_framework\/_bin\/ThirdPartyChatLib.dll"
     },
     {
-      "hash": "sha256-l0esWt4hyaZVkqUopwW\/KGzENmkP1tn4aqauQhJfZxU=",
+      "hash": "sha256-K6fQ2P1jdNdp8FVfYCN\/ereRuy6iVVl1NIRwLWwn06E=",
       "url": "_framework\/_bin\/BlazorChat.Shared.dll"
     },
     {
@@ -293,7 +293,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-2VYXRmq7TWuFS99iAneAoiwomRXTBR5UoTwSYppx3hM=",
+      "hash": "sha256-4aVTmQe1jnYU\/q2ugZuSj0aAEwT54yEoMFSgUy49fLs=",
       "url": "_framework\/_bin\/BlazorChat.Client.pdb"
     },
     {
@@ -301,7 +301,7 @@
       "url": "_framework\/_bin\/ThirdPartyChatLib.pdb"
     },
     {
-      "hash": "sha256-os6xfht7dAUfQHFenZ0mBRhg8pYMFj2a4r3\/\/5hzgrE=",
+      "hash": "sha256-MF7VsgdYNilQSQ2zlXhVYBKL7zaYFpx7\/wQviQr3798=",
       "url": "_framework\/_bin\/BlazorChat.Shared.pdb"
     },
     {
@@ -321,9 +321,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-1BmkcRFJngbD0KiMvIsMsjNqmqzdnWfH0JienYa1RNk=",
+      "hash": "sha256-4Yy5t\/XiUbf1z0jMXpDUZvLgAdh86\/8ymbZelzPlLYY=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "Raltiepl"
+  "version": "rwHBt5+D"
 };

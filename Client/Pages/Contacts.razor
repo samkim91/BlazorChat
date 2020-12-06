@@ -26,7 +26,7 @@
     {
         //forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast"); *@
 
-        ContactList = await Http.GetFromJsonAsync<List<Contact>>("user");
+        ContactList = await Http.GetFromJsonAsync<List<Contact>>("User");
 
         Console.WriteLine(ContactList[2].FirstName);
     }

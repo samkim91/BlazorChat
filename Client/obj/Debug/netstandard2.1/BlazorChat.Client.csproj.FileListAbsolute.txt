@@ -1004,7 +1004,6 @@ D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\LI
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\q_gmuNsyHXvrL2yz1HVu3z6YUZxTQZMxxMc-sm2AedE=.hash
-D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\l0esWt4hyaZVkqUopwW-KGzENmkP1tn4aqauQhJfZxU=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
@@ -1020,7 +1019,6 @@ D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\_k
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\L1YR9QkP9AhCTJ7nJ2hpJKXlRhCAzm7jpdI5QHYqtPA=.hash
-D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\os6xfht7dAUfQHFenZ0mBRhg8pYMFj2a4r3--5hzgrE=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -1158,7 +1156,10 @@ D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\BlazorChat.C
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\BlazorChat.Client.pdb
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
-D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\GjCQRPYb1u-noCdHRR7UY6X-73UwF2hZhgpD1zJDWpg=.hash
-D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\2VYXRmq7TWuFS99iAneAoiwomRXTBR5UoTwSYppx3hM=.hash
-D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\1BmkcRFJngbD0KiMvIsMsjNqmqzdnWfH0JienYa1RNk=.hash
-D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\cDXh6Bc9kpwbrWp7UWLucIAW5YXwSH0V6pB29VPYz84=.hash
+D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\K6fQ2P1jdNdp8FVfYCN-ereRuy6iVVl1NIRwLWwn06E=.hash
+D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\MF7VsgdYNilQSQ2zlXhVYBKL7zaYFpx7-wQviQr3798=.hash
+D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\-Ss-9XgEqBn_bgVmS8s5xDuJw0PEsDjflZVEgYuSDdg=.hash
+D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\0ctBVlnLK2VWajrnOppeEj1VblBFWjG7-HAvyWXQBmY=.hash
+D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\4aVTmQe1jnYU-q2ugZuSj0aAEwT54yEoMFSgUy49fLs=.hash
+D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\4Yy5t-XiUbf1z0jMXpDUZvLgAdh86-8ymbZelzPlLYY=.hash
+D:\MyProjects\BlazorChat\BlazorChat\Client\obj\Debug\netstandard2.1\integrity\VVNYgo4jKb1HsfUoi9jyGZhGVwnwrbI7m2XKjMD34tY=.hash

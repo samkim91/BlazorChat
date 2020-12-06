@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using BlazorChat.Server.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlazorChat.Server.Controllers
 {
@@ -39,6 +40,24 @@ namespace BlazorChat.Server.Controllers
             }
 
             return contacts;
+        }
+
+        [HttpPut("updateprofile/{userId}")]
+        public async Task<User> UpdateProfile(int userId, [FromBody] User user){
+            User userToUpdate = await _context.Users.Where(u => u.UserId == userId).FirstOrDefaultAsync();
+
+            userToUpdate.FirstName = user.FirstName;
+            userToUpdate.LastName = user.LastName;
+            userToUpdate.EmailAddress = user.EmailAddress;
+
+            await _context.SaveChangesAsync();
+
+            return await Task.FromResult(user);
+        }
+
+        [HttpGet("getprofile/{userId}")]
+        public async Task<User> GetProfile(int userId){
+            return await  _context.Users.Where(u => u.UserId == userId).FirstOrDefaultAsync();
         }
     }
 }
