@@ -2,7 +2,7 @@ using BlazorChat.Shared.Models;
 
 namespace BlazorChat.ViewModels
 {
-    public class ProfileViewModel : IProfileViewModel
+    public class ProfileViewModel_v2 : IProfileViewModel
     {
 
         public long UserId { get; set; }
@@ -16,21 +16,21 @@ namespace BlazorChat.ViewModels
 
         public void UpdateProfile()
         {
-            //User user = _profileViewModel;
+            //User user = _ProfileViewModel_v2;
             //await HttpClient.PutAsJsonAsync("user/updateprofile/10", user);
-            this.Message = "Profile updated successfully";
+            this.Message = this.FirstName + "'s Profile updated successfully -- faster";
         }
 
         public void GetProfile()
         {
             //User user = await HttpClient.GetFromJsonAsync<User>("user/getprofile/10");
-            //_profileViewModel = user;
-            this.Message = "Profile loaded successfully";
+            //_ProfileViewModel_v2 = user;
+            this.Message = "Profile loaded successfully -- faster";
         }
 
-        public static implicit operator ProfileViewModel(User user)
+        public static implicit operator ProfileViewModel_v2(User user)
         {
-            return new ProfileViewModel
+            return new ProfileViewModel_v2
             {
                 FirstName = user.FirstName,
                 LastName = user.LastName,
@@ -39,14 +39,14 @@ namespace BlazorChat.ViewModels
             };
         }
 
-        public static implicit operator User(ProfileViewModel profileViewModel)
+        public static implicit operator User(ProfileViewModel_v2 ProfileViewModel_v2)
         {
             return new User
             {
-                FirstName = profileViewModel.FirstName,
-                LastName = profileViewModel.LastName,
-                EmailAddress = profileViewModel.EmailAddress,
-                UserId = profileViewModel.UserId
+                FirstName = ProfileViewModel_v2.FirstName,
+                LastName = ProfileViewModel_v2.LastName,
+                EmailAddress = ProfileViewModel_v2.EmailAddress,
+                UserId = ProfileViewModel_v2.UserId
             };
         }
     }

@@ -2846,35 +2846,35 @@
         }
       },
       {
-        "HashCode": -694012713,
+        "HashCode": 253541904,
         "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.App",
+        "Name": "BlazorChat.Client.Pages.Profile",
         "AssemblyName": "BlazorChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Profile"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.App"
+          "Common.TypeName": "BlazorChat.Client.Pages.Profile"
         }
       },
       {
-        "HashCode": 1899793212,
+        "HashCode": 963597000,
         "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.App",
+        "Name": "BlazorChat.Client.Pages.Profile",
         "AssemblyName": "BlazorChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorChat.Client.App"
+            "TagName": "BlazorChat.Client.Pages.Profile"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.App",
+          "Common.TypeName": "BlazorChat.Client.Pages.Profile",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -2912,39 +2912,6 @@
         }
       },
       {
-        "HashCode": 253541904,
-        "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.Pages.Profile",
-        "AssemblyName": "BlazorChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Profile"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.Pages.Profile"
-        }
-      },
-      {
-        "HashCode": 963597000,
-        "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.Pages.Profile",
-        "AssemblyName": "BlazorChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorChat.Client.Pages.Profile"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.Pages.Profile",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -338267843,
         "Kind": "Components.Component",
         "Name": "BlazorChat.Client.Pages.Settings",
@@ -2974,6 +2941,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorChat.Client.Pages.Settings",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -694012713,
+        "Kind": "Components.Component",
+        "Name": "BlazorChat.Client.App",
+        "AssemblyName": "BlazorChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorChat.Client.App"
+        }
+      },
+      {
+        "HashCode": 1899793212,
+        "Kind": "Components.Component",
+        "Name": "BlazorChat.Client.App",
+        "AssemblyName": "BlazorChat.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorChat.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorChat.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
