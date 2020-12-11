@@ -2,7 +2,7 @@ using BlazorChat.Shared.Models;
 
 namespace BlazorChat.ViewModels
 {
-    public class ProfileViewModel_v2 : IProfileViewModel
+    public class ProfileViewModel_v2
     {
 
         public long UserId { get; set; }

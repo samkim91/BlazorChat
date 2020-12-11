@@ -18,17 +18,14 @@ namespace BlazorChat.Client
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("app");
 
-            builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
+            // builder.Services.AddTransient(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 
-            builder.Services.AddSingleton<IProfileViewModel, ProfileViewModel>();
+
+            builder.Services.AddHttpClient<IProfileViewModel, ProfileViewModel>
+                ("BlazorChatClient", Client => Client.BaseAddress = new Uri(builder.HostEnvironment.BaseAddress));
             // builder.Services.AddTransient<ProfileViewModel>();
 
-            var host = builder.Build();
-
-            var profileViewModel = host.Services.GetRequiredService<IProfileViewModel>();
-            profileViewModel.GetProfile();
-
-            await host.RunAsync();
+            await builder.Build().RunAsync();
         }
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aXO7QzvvLQIRRXjur7eGFzgq/VhxYcvAU8xDkESkDTT2pEBAUN3XQJ3NwYs3gFwV4MIgtquVzNLZSaH2Y3Pjdg==",
+  "dgSpecHash": "7kOIzTCXES47boAWKoWZ57jddyR8WxHdjst2gcd3GlHeKgXgHnWh3wqDRAUUosYWlU6DZb3d0W4TMxQt0E1unA==",
   "success": true,
   "projectFilePath": "D:\\MyProjects\\BlazorChat\\BlazorChat\\Server\\BlazorChat.Server.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\kimh6\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.6\\microsoft.extensions.fileproviders.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\kimh6\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.6\\microsoft.extensions.fileproviders.physical.3.1.6.nupkg.sha512",
     "C:\\Users\\kimh6\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.6\\microsoft.extensions.filesystemglobbing.3.1.6.nupkg.sha512",
+    "C:\\Users\\kimh6\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
     "C:\\Users\\kimh6\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\kimh6\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\kimh6\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",

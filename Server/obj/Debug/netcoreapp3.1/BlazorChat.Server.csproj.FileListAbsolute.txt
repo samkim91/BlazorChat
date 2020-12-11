@@ -672,3 +672,4 @@ D:\MyProjects\BlazorChat\BlazorChat\Server\bin\Debug\netcoreapp3.1\runtimes\win-
 D:\MyProjects\BlazorChat\BlazorChat\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\MyProjects\BlazorChat\BlazorChat\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 D:\MyProjects\BlazorChat\BlazorChat\Server\obj\Debug\netcoreapp3.1\EFCorePluralizer.cs
+D:\MyProjects\BlazorChat\BlazorChat\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll

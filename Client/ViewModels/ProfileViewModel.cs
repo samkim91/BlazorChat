@@ -1,3 +1,6 @@
+using System.Net.Http;
+using System.Net.Http.Json;
+using System.Threading.Tasks;
 using BlazorChat.Shared.Models;
 
 namespace BlazorChat.ViewModels
@@ -14,19 +17,36 @@ namespace BlazorChat.ViewModels
         public string EmailAddress { get; set; }
         public string Message { get; set; }
 
-        public void UpdateProfile()
+        private HttpClient _httpClient;
+
+        public ProfileViewModel(){
+
+        }
+
+        public ProfileViewModel(HttpClient httpClient){
+            _httpClient = httpClient;
+        }
+
+        public async Task UpdateProfile()
         {
-            //User user = _profileViewModel;
-            //await HttpClient.PutAsJsonAsync("user/updateprofile/10", user);
+            User user = this;
+            await _httpClient.PutAsJsonAsync("user/updateprofile/10", user);
             this.Message = "Profile updated successfully";
         }
 
-        public void GetProfile()
+        public async Task GetProfile()
         {
-            //User user = await HttpClient.GetFromJsonAsync<User>("user/getprofile/10");
-            //_profileViewModel = user;
+            User user = await _httpClient.GetFromJsonAsync<User>("user/getprofile/10");
+            LoadCurrentObject(user);
             this.Message = "Profile loaded successfully";
         }
+
+        private void LoadCurrentObject(ProfileViewModel profileViewModel){
+            this.FirstName = profileViewModel.FirstName;
+            this.LastName = profileViewModel.LastName;
+            this.EmailAddress = profileViewModel.EmailAddress;
+        }
+
 
         public static implicit operator ProfileViewModel(User user)
         {

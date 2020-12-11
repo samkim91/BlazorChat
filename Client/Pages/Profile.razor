@@ -16,3 +16,6 @@
     <span>&nbsp;&nbsp;</span>@_profileViewModel.Message
 </div>
 
+@code {
+    protected override async Task OnInitializedAsync() => await _profileViewModel.GetProfile();
+}

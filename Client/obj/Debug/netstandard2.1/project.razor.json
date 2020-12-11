@@ -107,35 +107,55 @@
         }
       },
       {
-        "HashCode": -694012713,
+        "HashCode": 1163190377,
         "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.App",
+        "Name": "BlazorChat.Client.Shared.SurveyPrompt",
         "AssemblyName": "BlazorChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.App"
+          "Common.TypeName": "BlazorChat.Client.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 1899793212,
+        "HashCode": 815068865,
         "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.App",
+        "Name": "BlazorChat.Client.Shared.SurveyPrompt",
         "AssemblyName": "BlazorChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorChat.Client.App"
+            "TagName": "BlazorChat.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.App",
+          "Common.TypeName": "BlazorChat.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -269,55 +289,35 @@
         }
       },
       {
-        "HashCode": 1163190377,
+        "HashCode": -694012713,
         "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.Shared.SurveyPrompt",
+        "Name": "BlazorChat.Client.App",
         "AssemblyName": "BlazorChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "BlazorChat.Client.App"
         }
       },
       {
-        "HashCode": 815068865,
+        "HashCode": 1899793212,
         "Kind": "Components.Component",
-        "Name": "BlazorChat.Client.Shared.SurveyPrompt",
+        "Name": "BlazorChat.Client.App",
         "AssemblyName": "BlazorChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorChat.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "BlazorChat.Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorChat.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "BlazorChat.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

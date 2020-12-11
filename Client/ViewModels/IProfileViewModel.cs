@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using BlazorChat.Shared.Models;
 
 namespace BlazorChat.ViewModels
@@ -14,8 +15,8 @@ namespace BlazorChat.ViewModels
         public string EmailAddress { get; set; }
         public string Message { get; set; }
 
-        public void UpdateProfile();
+        public Task UpdateProfile();
 
-        public void GetProfile();
+        public Task GetProfile();
     }
 }
